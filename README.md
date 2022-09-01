@@ -3,7 +3,7 @@
 - 고려대 전기전자공학부 3학년
 
 ## Projects
-- 데이터청년캠퍼스 '마음마중물' 
+- 데이터청년캠퍼스 '마음마중물'  https://github.com/KR-0822/DataCampusKorea8 , 
 
 ## Things To Do This Semester (2022 Fall semester)
 - [ ] 학부 인턴 지원...😥
