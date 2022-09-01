@@ -11,18 +11,14 @@
 - [ ] Hands 프로젝트 (CCP)
 - [ ] GPA 4.0 +
 
-## Things Done Last Semester (2022 Spring semester)
+## Things Done (2022 Spring semester)
 - [x] Hands 학회, Deluxe 동아리 가입
 - [x] Hands 프로젝트
 - [x] 인공지능 융합전공 준비
 - [x] GPA 4.0 +
+- [x] 데이터청년캠퍼스 프로젝트 진행 및 수료
 😊
 
-<img src="https://img.shields.io/badge/표현하고자 하는 말-색상?style=flat-square&logo=simpleicons에서 지칭하는 아이콘명&logoColor=아이콘색상" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-<!--
 **KR-0822/KR-0822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
