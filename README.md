@@ -1,6 +1,6 @@
 # Hi 👋
 ## About Me
-- Korea University School of Electrical Engineering undergraduate
+- 고려대 전기전자공학부 3학년
 
 ## Projects
 - 데이터청년캠퍼스 '마음마중물' 
