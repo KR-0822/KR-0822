@@ -5,10 +5,17 @@
 ## Projects
 - 데이터청년캠퍼스 '마음마중물' 
 
-## Things To Do This Semester (2022 fall semester)
+## Things To Do This Semester (2022 Fall semester)
 - [ ] 학부 인턴 지원...😥
-- [ ] Hands 프로젝트
+- [ ] 머신러닝 공부 및 프로젝트 진행
+- [※] Hands 프로젝트 (CCP)
 - [ ] GPA 4.0 +
+
+## Things Done Last Semester (2022 Spring semester)
+- [O] Hands 학회, Deluxe 동아리 가입
+- [※] Hands 프로젝트
+- [O] 인공지능 융합전공 준비
+- [O] GPA 4.0 +
 😊
 
 <img src="https://img.shields.io/badge/표현하고자 하는 말-색상?style=flat-square&logo=simpleicons에서 지칭하는 아이콘명&logoColor=아이콘색상" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
