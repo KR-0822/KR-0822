@@ -5,7 +5,7 @@
 ## Projects
 - 데이터청년캠퍼스 '마음마중물'  https://github.com/KR-0822/DataCampusKorea8 , 
 
-## Things To Do This Semester (2022 Fall semester)
+##  This Semester (2022 Fall semester)
 - [ ] 학부 인턴 지원...😥
 - [ ] 머신러닝 공부 및 프로젝트 진행
 - [ ] 동아리 가입
