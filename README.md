@@ -1,6 +1,6 @@
 # Hi 👋
 ## About Me
-- 고려대 전기전자공학부 3학년
+- 고려대 전기전자공학부 인공지능 융전 사망년
 
 ## Projects
 - 데이터청년캠퍼스 '마음마중물'  https://github.com/KR-0822/DataCampusKorea8 , 
