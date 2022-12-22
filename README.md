@@ -9,8 +9,8 @@
 - [X] 학부 인턴 지원...! AIM Lab
 - [ ] 머신러닝 공부 및 프로젝트 진행
 - [X] 동아리 가입 Devkor!
-- [ ] 공모전 준비 (CCP)
-- [XX] GPA 4.0 +
+- [X] 공모전 준비 (CCP)
+- [ ] GPA 4.0 +
 
 ## Things Done (2022 Spring semester)
 - [x] Hands 학회, Deluxe 동아리 가입
