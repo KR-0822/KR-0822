@@ -8,10 +8,10 @@
 ## This Semester (2022 Fall semester)
 - [X] 학부 인턴 지원...! AIM Lab
 - [X] 머신러닝 공부 
-- ~~[ ] 머신러닝 프로젝트 진행
+- ~~[ ] 머신러닝 프로젝트 진행~~
 - [X] 동아리 가입 Devkor!
 - [X] 공모전 준비 (CCP)
-- ~~[ ] GPA 4.0 +
+- ~~[ ] GPA 4.0 +~~
 
 ## Things Done (2022 Spring semester)
 - [x] Hands 학회, Deluxe 동아리 가입
