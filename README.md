@@ -9,7 +9,7 @@
 ## This Semester (2022 Fall semester)
 - [X] 학부 인턴 지원...! AIM Lab
 - [X] 머신러닝 공부 
-- ~~[ ] 머신러닝 프로젝트 진행~~
+- [X] 머신러닝 프로젝트 진행~~(Kuchive 메타버스AI..)
 - [X] 동아리 가입 Devkor!
 - [X] 공모전 준비 (CCP)
 - ~~[ ] GPA 4.0 +~~
