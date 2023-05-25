@@ -10,7 +10,7 @@
 - CCP BC카드 빅데이터를 활용한 전통시장(지역축제) 소비 분석 모델 발굴,
 - Devkor 프런트-백 협업 프로젝트 뎁코 쇼핑몰 페이지 만들기 https://github.com/KR-0822/devkorpage ,
 - 윈터스쿨 메타버스 기반 AI 부트 캠프 '아프지마북극곰' https://github.com/KR-0822/PolarBear
-- Chapbot에 감정 넣기, COSE461 협업. --진행중--
+- Chapbot에 감정 넣기, COSE461 협업. '구황작물 스쿼드' (https://github.com/kchyun/MBTI-Consistent-Dialog-Generation)
 
 ## 
 
