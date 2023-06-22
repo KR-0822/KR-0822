@@ -11,7 +11,7 @@
 - Devkor 프런트-백 협업 프로젝트 뎁코 쇼핑몰 페이지 만들기 https://github.com/KR-0822/devkorpage ,
 - 윈터스쿨 메타버스 기반 AI 부트 캠프 '아프지마북극곰' https://github.com/KR-0822/PolarBear
 - COSE461 자연어처리 프로젝트. 'MBTI-Based Dialogue Generation: Training Language Models for Personality-Aware Conversation' (https://github.com/kchyun/MBTI-Consistent-Dialog-Generation)
-<img src="https://github.com/kchyun/MBTI-Consistent-Dialog-Generation/assets/105578577/ca13b33f-f434-41be-b007-c8e3fa5685d3.png" width="30%" height="30%"/}
+<img src ="https://github.com/kchyun/MBTI-Consistent-Dialog-Generation/assets/105578577/ca13b33f-f434-41be-b007-c8e3fa5685d3" width="30%" >
 
 ## 
 
