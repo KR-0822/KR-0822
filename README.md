@@ -2,15 +2,15 @@
 ## About Me
 - 고려대 전기전자공학부 인공지능 융합전공
 - AIM Lab 학부 인턴 
-- 전전학회 Hands, 게임동아리 Deluxe, 개발동아리 Devkor, 양자정보과학동아리 QUICK
+- 전전학회 Hands, 개발동아리 Devkor, 양자정보과학동아리 QUICK, 게임동아리 Deluxe
 
 
 ## Projects
-- 데이터청년캠퍼스 '마음마중물'  https://github.com/KR-0822/DataCampusKorea8 , 
+- 데이터청년캠퍼스 '마음마중물' CLIP 모델 활용  https://github.com/KR-0822/DataCampusKorea8 , 
 - CCP BC카드 빅데이터를 활용한 전통시장(지역축제) 소비 분석 모델 발굴,
-- Devkor 프런트-백 협업 프로젝트 뎁코 쇼핑몰 페이지 만들기 https://github.com/KR-0822/devkorpage ,
-- 윈터스쿨 메타버스 기반 AI 부트 캠프 '아프지마북극곰' https://github.com/KR-0822/PolarBear
-- COSE461 자연어처리 프로젝트. 'MBTI-Based Dialogue Generation: Training Language Models for Personality-Aware Conversation' (https://github.com/kchyun/MBTI-Consistent-Dialog-Generation)
+- Devkor 프런트-백 협업 프로젝트 뎁코 쇼핑몰 페이지 만들기 (React) https://github.com/KR-0822/devkorpage ,
+- 윈터스쿨 메타버스 기반 AI 부트 캠프 '아프지마북극곰' ConvLSTM 모델 활용 https://github.com/KR-0822/PolarBear
+- COSE461 자연어처리 프로젝트. RLHF, PLM tuning 'MBTI-Based Dialogue Generation: Training Language Models for Personality-Aware Conversation' (https://github.com/kchyun/MBTI-Consistent-Dialog-Generation)
 
 ## 
 
