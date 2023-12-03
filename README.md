@@ -10,6 +10,7 @@
 - Devkor 프런트-백 협업 프로젝트 뎁코 쇼핑몰 페이지 만들기 (React) https://github.com/KR-0822/devkorpage ,
 - 윈터스쿨 메타버스 기반 AI 부트 캠프 '아프지마북극곰' ConvLSTM 모델 활용 https://github.com/KR-0822/PolarBear
 - COSE461 자연어처리 프로젝트. RLHF, PLM tuning 'MBTI-Based Dialogue Generation: Training Language Models for Personality-Aware Conversation' (https://github.com/kchyun/MBTI-Consistent-Dialog-Generation)
+- COSE474 딥러닝 Text-to-Image Stable Diffusion with RL https://github.com/KR-0822/Diffusion_RL
 
 ## 
 
